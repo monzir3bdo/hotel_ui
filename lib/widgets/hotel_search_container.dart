@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hotelsgo_task/core/colors_manager.dart';
 
 import '../core/strings_manager.dart';
 
